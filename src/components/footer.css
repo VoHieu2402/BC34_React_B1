@@ -1,0 +1,11 @@
+.footer {
+  height: 150px;
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+
+.footer h2 {
+  font-size: 17px;
+  transform: translateY(75px);
+}

@@ -1,0 +1,25 @@
+.banner {
+  margin-top: 50px;
+}
+
+.banner .card {
+  background-color: #f8f9fa;
+  border: transparent;
+}
+
+.banner h5 {
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.banner p {
+  font-size: 1.5rem;
+}
+
+.banner a {
+  font-size: 1.25rem;
+}
+
+.banner .card-body {
+  padding: 100px;
+}

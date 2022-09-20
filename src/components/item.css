@@ -1,0 +1,26 @@
+.item-group {
+  margin-top: 100px;
+}
+
+.item-group .item .item-container {
+  padding: 50px;
+  background-color: #f8f9fa;
+  position: relative;
+  margin-bottom: 80px;
+}
+
+.item-group .item h3 {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.item-group .icon {
+  position: absolute;
+  top: -20%;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 20px;
+  border-radius: 5px;
+  background-color: #0d6efd;
+  color: white;
+}

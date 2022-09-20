@@ -1,0 +1,20 @@
+.header {
+  background-color: black;
+}
+
+.header a {
+  color: #f8f9fa;
+}
+
+.navbar-collapse {
+  display: flex;
+  justify-content: end;
+}
+
+.header a.active {
+  color: white !important;
+}
+
+.header a.nav-link {
+  color: gray;
+}
